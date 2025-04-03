@@ -1,15 +1,18 @@
-Thought for 1 second```markdown project="Terms of Service Analyzer" file="README.md"
-...
-```
+### Step 1: Get the Code
 
-Or download and extract the ZIP file from the repository and navigate to the extracted folder.
+Either clone the repository using Git:
 
-### Step 2: Install Dependencies
+```bash
+git clone https://github.com/yourusername/terms-of-service-analyzer.git
+cd terms-of-service-analyzer
 
-Install all required dependencies using npm:
+2. Install dependencies:
+
 
 ```shellscript
 npm install
+# or
+yarn install
 ```
 
 This will install all the necessary packages defined in the `package.json` file, including:

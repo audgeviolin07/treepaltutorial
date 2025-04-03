@@ -3,8 +3,8 @@
 Either clone the repository using Git:
 
 ```bash
-git clone https://github.com/yourusername/terms-of-service-analyzer.git
-cd terms-of-service-analyzer
+git clone https://github.com/audgeviolin07/treepaltutorial.git
+cd treepaltutorial
 ```
 ### Step 2. Install dependencies:
 
